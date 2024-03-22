@@ -9,3 +9,7 @@ Um dos detalhes importantes que seguem a implementação do backend é que o cor
 ## Frontend
 
 Desenvolvido em vue.js, como dito nas instruções, não foi utilizado nenhuma lib externa, com exceção da lib "axios" para realizar requisições http para a api. O objetivo foi deixar a aplicação o mais modularizada e consistente possível, respeitando o design fornecido e boas práticas.
+
+---
+
+OBS: O commit dos arquivos que já existiam na pasta está no terceiro commit com o nome "feat: miscelaneous"
